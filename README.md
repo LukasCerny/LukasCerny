@@ -1,5 +1,5 @@
 ### Personal info
-My name is Lukáš Černý.
+My name is Lukas Cerny.
 
 I am a student at the Faculty of Economics and Management - Czech University of Life Sciences Prague
 

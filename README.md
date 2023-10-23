@@ -1,11 +1,5 @@
 ### Personal info
-My name is Lukas Cerny.
 
-I am a student at the Faculty of Economics and Management - Czech University of Life Sciences Prague
-
-🌱 I’m currently learning: Python
-
-Hobbies: PC Games, Warhammer Miniatures, Books
 
 <!--
 **LukasCerny/LukasCerny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
